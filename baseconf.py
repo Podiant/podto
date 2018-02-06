@@ -38,6 +38,8 @@ PAGINATION_PATTERNS = (
     (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
 )
 
+SHOW_FULL_ARTICLE = True
+
 ### Feed settings
 FEED_ALL_ATOM = None
 FEED_ALL_RSS = None
