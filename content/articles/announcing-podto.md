@@ -5,7 +5,7 @@ tags: protocol
 
 ---
 
-Subscribing to podcasts is hard. To prove it, try explaining it to someone with a new smartphone, who doesn’t know what an RSS feed is. Even if you have the default podcasting app on your phone (which is Apple Podcasts on iOS, and Google Play Music on Android, but only in America? Weird) you might not know that. What we need is a mailto: equivalent for podcasting. Which is why my friend and colleague Brendan came up with the podto: scheme, and I’m helping work out the technical stuff.
+Subscribing to podcasts is hard. To prove it, try explaining it to someone with a new smartphone, who doesn’t know what an RSS feed is. Even if you have the default podcasting app on your phone (which is Apple Podcasts on iOS, and Google Play Music on Android, but only in America? Weird) you might not know that. What we need is a mailto: equivalent for podcasting. Which is why my friend and colleague [Brendan Hutchins](http://podcastadvocate.network/) came up with the podto: scheme, and I’m helping work out the technical stuff.
 
 ## The problem so far
 
