@@ -11,6 +11,7 @@ from baseconf import *
 from collections import OrderedDict
 
 SITENAME = u'podTo'
+SITESUBTITLE = u'The campaign for an easier way to subscribe to podcasts'
 AUTHOR = u'podTo'
 THEME = 'themes/clean-blog'
 
