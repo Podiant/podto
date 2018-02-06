@@ -1,0 +1,39 @@
+.supporter-list {
+    display: block;
+    text-align: center;
+}
+
+.supporter-list ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+.supporter-list li {
+    display: inline-block;
+    margin: 0 1em;
+    line-height: 64px;
+}
+
+.supporter-list img {
+    height: 64px;
+    opacity: .25;
+}
+
+.supporter-list a:hover img {
+    opacity: .5;
+    cursor: pointer;
+}
+
+.supporter-list li.you a {
+    line-height: 62px;
+    padding: 0 24px;
+    border: 1px solid #eaeaea;
+    background: #fafafa;
+    color: #444;
+    display: block;
+}
+
+.supporter-list li.you a:hover {
+    background: #f0f0f0;
+    text-decoration: none;
+}
