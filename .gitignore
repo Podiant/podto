@@ -1,5 +1,6 @@
+.DS_Store
+*.pid
 /__pycache__
-/.DS_Store
 /.env
 /output
 /venv
