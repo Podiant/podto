@@ -8,7 +8,7 @@ title: About us
     <div class="media-body">
         <h2 class="media-heading">Mark Steadman</h2>
         <p>
-            Mark is the develoepr of the podcast hosting platform
+            Mark is the developer of the podcast hosting platform
             <a href="https://podiant.co/">Podiant</a>. He's been a web and
             software developer for over 15 years and a podcaster for 10.
         </p>
