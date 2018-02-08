@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 ### Base settings
 SITEURL = ''
-DEFAULT_LANG = u'pt'
+DEFAULT_LANG = u'en-GB'
 DEFAULT_PAGINATION = False
 TIMEZONE = 'Europe/London'
 SUMMARY_MAX_LENGTH = 35
@@ -63,13 +63,13 @@ RESPONSIVE_IMAGES = True
 SITEMAP = {
     'format': 'xml',
     'priorities': {
-        'articles': 0.8,
-        'indexes': 0.2,
-        'pages': 0.7
+        'articles': .8,
+        'indexes': .2,
+        'pages': .7
     },
     'changefreqs': {
-        'articles': 'daily',
+        'articles': 'weekly',
         'indexes': 'daily',
-        'pages': 'monthly'
-    },
+        'pages': 'weekly'
+    }
 }

@@ -28,10 +28,7 @@ SITE_BACKGROUND_IMAGE = 'images/banners/background.png'
 FOOTER_ABOUT = 'This is footer info'
 
 PYGMENTS_STYLE = 'perldoc'
-
-NAVBAR_HOME_LINKS = [
-
-]
+NAVBAR_HOME_LINKS = []
 
 # Navbar Links do Blog
 NAVBAR_BLOG_LINKS = NAVBAR_HOME_LINKS + [
